@@ -1,214 +1,312 @@
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="46" height="46" /> **DARSHAN DNYANDEV GADEKAR**
-## `> AI · Machine Learning · Generative AI · Python Developer`
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50" height="50" /> **DARSHAN DNYANDEV GADEKAR**
 
 <div align="center">
-
-<!-- Typing animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Darshan+Gadekar;Student+%7C+AI+%7C+ML+%7C+Python;Building+Intelligent+Systems+%26+Automations)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Darshan%20Gadekar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20|%20Python%20Developer&descAlignY=55&descSize=22" width="100%"/>
 </div>
-
----
 
 <div align="center">
-
-<!-- Neural network SVG animation (inline) -->
-<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neural Network Animation">
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00F7FF"/>
-      <stop offset="50%" stop-color="#FF6B35"/>
-      <stop offset="100%" stop-color="#9B59FF"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- nodes -->
-  <g id="nodes" fill="url(#g1)" filter="url(#glow)">
-    <circle cx="80"  cy="40"  r="6" opacity="0.95">
-      <animate attributeName="r" values="4;8;4" dur="3.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="200" cy="30"  r="5" opacity="0.9">
-      <animate attributeName="r" values="3;9;3" dur="2.8s" repeatCount="indefinite" begin="0.6s" />
-    </circle>
-    <circle cx="320" cy="60"  r="6" opacity="0.95">
-      <animate attributeName="r" values="4;10;4" dur="3.6s" repeatCount="indefinite" begin="1s" />
-    </circle>
-    <circle cx="440" cy="40"  r="5" opacity="0.9">
-      <animate attributeName="r" values="3;8;3" dur="2.6s" repeatCount="indefinite" begin="0.2s" />
-    </circle>
-    <circle cx="560" cy="60"  r="6" opacity="0.95">
-      <animate attributeName="r" values="4;9;4" dur="3.4s" repeatCount="indefinite" begin="0.9s" />
-    </circle>
-    <circle cx="680" cy="36"  r="5" opacity="0.9">
-      <animate attributeName="r" values="3;7;3" dur="2.9s" repeatCount="indefinite" begin="0.4s" />
-    </circle>
-  </g>
-
-  <!-- animated connections -->
-  <g stroke="url(#g1)" stroke-width="2" stroke-linecap="round" opacity="0.85">
-    <path d="M86 40 C140 20, 190 20, 200 30" stroke-dasharray="6 6">
-      <animate attributeName="stroke-dashoffset" from="0" to="60" dur="4s" repeatCount="indefinite"/>
-    </path>
-    <path d="M206 30 C260 40, 310 50, 320 60" stroke-dasharray="6 6" opacity="0.9">
-      <animate attributeName="stroke-dashoffset" from="60" to="0" dur="4.5s" repeatCount="indefinite"/>
-    </path>
-    <path d="M326 60 C380 45, 420 43, 440 40" stroke-dasharray="6 6" opacity="0.85">
-      <animate attributeName="stroke-dashoffset" from="0" to="60" dur="5s" repeatCount="indefinite"/>
-    </path>
-    <path d="M446 40 C500 30, 540 48, 560 60" stroke-dasharray="6 6" opacity="0.9">
-      <animate attributeName="stroke-dashoffset" from="60" to="0" dur="3.8s" repeatCount="indefinite"/>
-    </path>
-    <path d="M566 60 C620 55, 660 45, 680 36" stroke-dasharray="6 6" opacity="0.85">
-      <animate attributeName="stroke-dashoffset" from="0" to="60" dur="4.2s" repeatCount="indefinite"/>
-    </path>
-  </g>
-
-  <!-- label -->
-  <text x="380" y="205" font-family="Fira Sans, monospace" font-size="12" text-anchor="middle" fill="#cfefff">
-    NEURAL-NETWORK ACTIVITY · Real-time training vibes ·  ↻
-  </text>
-</svg>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Hello+World!+I'm+Darshan+👨‍💻;AI+%26+Machine+Learning+Engineer+🤖;Building+Intelligent+Systems+🚀;Python+Developer+%26+Problem+Solver+⚡;Welcome+to+my+Digital+Universe+🌌" alt="Typing SVG" />
+  </a>
 </div>
-
----
 
 <div align="center">
-
-### ⚡ NEURAL STATUS · LIVE
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Status-LEARNING-blue?style=for-the-badge&logo=googlecolab">
-  <img alt="status" src="https://img.shields.io/badge/Status-LEARNING-blue?style=for-the-badge&logo=googlecolab">
-</picture>
-
+  <a href="https://www.linkedin.com/in/darshan-gadekar-b98551269/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="mailto:darshan.gadekar@example.com">
+    <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
+  </a>
+  <a href="https://github.com/gadekardarshan" target="_blank">
+    <img src="https://img.shields.io/badge/🐱%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🌟%20Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
+  </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ TECH STACK · SKILLS
+## 🚀 About Me
 
-<div align="center">
-<!-- Badges grid -->
-<p>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-<p>
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img alt="C/C++" src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-</div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/23b9c473aeea3b4f97563c9ceea3dbb9/raw/88d5be91a76416ec0b71184bd17a60b8d783ee9e/coding.gif">
 
----
+<details open>
+<summary><strong>🎯 Who Am I?</strong></summary>
 
-## 🔬 About Me — Professional & Compact
+```python
+class DarshanGadekar:
+    def __init__(self):
+        self.name = "Darshan Dnyandev Gadekar"
+        self.role = "AI/ML Engineer & Python Developer"
+        self.location = "Pune, Maharashtra, India 🇮🇳"
+        self.education = {
+            "degree": "B.E. Information Technology (Pursuing)",
+            "college": "JSPM's JSCOE Hadapsar (SPPU)",
+            "diploma": "Computer Engineering"
+        }
+        self.languages = ["Python", "Java", "C/C++", "JavaScript", "HTML/CSS"]
+        self.specialties = [
+            "Machine Learning & AI 🤖",
+            "Generative AI & LLMs 🧠", 
+            "Data Science & Analytics 📊",
+            "Deep Learning & Neural Networks 🔬",
+            "Model Fine-tuning (LoRA/QLoRA) ⚡",
+            "Web Development 🌐"
+        ]
+        self.current_focus = "Building production-ready AI systems"
+        self.passion = "Turning complex problems into elegant solutions"
+        self.motto = "Code with purpose, innovate with passion! ✨"
+        
+    def get_daily_routine(self):
+        return [
+            "☕ Coffee & Code",
+            "📚 Learn new AI techniques", 
+            "🔨 Build something awesome",
+            "🧪 Experiment with models",
+            "🔄 Repeat with enthusiasm"
+        ]
+    
+    def get_goals_2025(self):
+        return {
+            "short_term": "Master advanced ML algorithms",
+            "medium_term": "Deploy AI solutions at scale",
+            "long_term": "Contribute to AI research & innovation",
+            "dream": "Build AI that makes a real difference 🌟"
+        }
 
-- 🎓 **B.E. (Information Technology)** — JSPM’s JSCOE Hadapsar (SPPU) — *Pursuing*  
-- 🎓 **Diploma in Computer Engineering** — Strong foundation in programming & systems  
-- ⚙️ **Current Focus:** Python, Machine Learning, Generative AI, Model fine-tuning (LoRA / QLoRA / RAG), DSA  
-- 🔭 **Goal:** Build scalable AI/ML applications and productize intelligent automation  
-- 💡 **Working Style:** Curious learner, hands-on builder, collaborative team player
-
----
-
-## 🧾 Projects & Repos (Selected)
-> *I removed the previous snapshot list and now show a compact, navigable projects section — link specific repos below.*
-
-- [AI Code Generator — experimental (Python)](https://github.com/gadekardarshan) *(example link — add repo URL)*
-- [Machine Learning Experiments — classification/regression notebooks](https://github.com/gadekardarshan)
-- [Android & Java Projects — AWT / CLI apps](https://github.com/gadekardarshan)
-
-> Tip: For best presentation, add `pinned` repositories on your GitHub profile so visitors see the most important projects first.
-
----
-
-## 🧩 Personal Profile Object (descriptive)
-
-```javascript
-// This object describes me — use it as a quick glance
-const DarshanGadekar = {
-  name: "Darshan Dnyandev Gadekar",
-  role: "Student • Aspiring AI/ML Engineer",
-  education: {
-    degree: "B.E. Information Technology (Pursuing)",
-    college: "JSPM JSCOE Hadapsar (SPPU)"
-  },
-  skills: [
-    "Python", "Machine Learning", "Generative AI", "LoRA", "QLoRA", "RAG",
-    "Data Structures & Algorithms", "Java", "C/C++", "Web Development"
-  ],
-  interests: ["AI productization", "Automation", "Model Fine-tuning", "DSA practice"],
-  contact: {
-    email: "your.email@domain.com",
-    linkedin: "https://www.linkedin.com/in/darshan-gadekar-b98551269",
-    github: "https://github.com/gadekardarshan"
-  },
-  motto: "Building the future, one model at a time."
-};
+# Initialize the developer
+me = DarshanGadekar()
+print(f"🚀 {me.current_focus}")
+print(f"💡 {me.passion}")
 ```
 
----
+</details>
 
-## 📈 GitHub Metrics & Visuals
+<br clear="right"/>
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><strong>💻 Technologies & Tools I Master</strong></summary>
 
 <div align="center">
 
-<!-- Main stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=gadekardarshan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+### 🚀 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
+</p>
 
-<!-- Contribution graph alternative (animated neural) -->
-<svg width="760" height="120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Activity bars">
-  <rect x="10" y="10" width="24" height="80" rx="4" fill="#0d1117">
-    <animate attributeName="height" values="40;80;20;80" dur="6s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="44" y="10" width="24" height="60" rx="4" fill="#00F7FF">
-    <animate attributeName="height" values="20;60;40;60" dur="5s" repeatCount="indefinite" begin="0.3s"/>
-  </rect>
-  <rect x="78" y="10" width="24" height="30" rx="4" fill="#FF6B35">
-    <animate attributeName="height" values="10;30;70;30" dur="4s" repeatCount="indefinite" begin="0.6s"/>
-  </rect>
-  <rect x="112" y="10" width="24" height="90" rx="4" fill="#9B59FF">
-    <animate attributeName="height" values="30;90;50;90" dur="7s" repeatCount="indefinite" begin="0.2s"/>
-  </rect>
-  <!-- label -->
-  <text x="380" y="110" font-size="12" text-anchor="middle" fill="#cfefff">Activity · Animated preview</text>
-</svg>
+### 🤖 AI & Machine Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <br>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+</div>
 
+### 📊 Data Science & Analytics
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <br>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+</div>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+### 🛠️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,docker&theme=dark" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+</div>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gadekardarshan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
+
+### 📊 GitHub Statistics
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gadekardarshan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadekardarshan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most Used Languages"/>
+</div>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gadekardarshan&bg_color=0D1117&color=00D9FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+### 🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=gadekardarshan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 Current Focus & Interests
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔭 I'm currently working on</h3>
+        <p>
+          • Building advanced AI chatbots with RAG<br>
+          • Developing ML models for real-world problems<br>
+          • Creating intelligent automation systems<br>
+          • Fine-tuning LLMs for specific domains<br>
+          • Contributing to open-source AI projects
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🌱 I'm currently learning</h3>
+        <p>
+          • Advanced Deep Learning architectures<br>
+          • MLOps & Model Deployment strategies<br>
+          • Computer Vision & Image Processing<br>
+          • Reinforcement Learning algorithms<br>
+          • Cloud-native AI development
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>💬 Ask me about</h3>
+        <p>
+          • Python development & best practices<br>
+          • Machine Learning & Data Science<br>
+          • AI model development & fine-tuning<br>
+          • Data structures & algorithms<br>
+          • Career advice in tech
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>⚡ Fun Facts</h3>
+        <p>
+          I believe AI should augment human creativity,<br>
+          not replace it! 🤖🤝👨‍💻<br>
+          <strong>Coffee fuels my coding sessions ☕✨</strong><br>
+          I can debug code faster than I can debug my life! 😄
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gadekardarshan&repo=taskmanager&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/gadekardarshan/taskmanager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gadekardarshan&repo=github.com-darshangadekar-CodeSoftInternship-Java-Programming&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/gadekardarshan/github.com-darshangadekar-CodeSoftInternship-Java-Programming)
+
+</div>
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+  
+```python
+def my_interests():
+    return {
+        "🎵 Music": "Lo-fi beats while coding",
+        "📚 Reading": "AI research papers & tech blogs",
+        "🏃‍♂️ Sports": "Cricket & fitness enthusiast",
+        "🎮 Gaming": "Strategy games & puzzle solving",
+        "📸 Photography": "Capturing moments & memories",
+        "🌱 Learning": "Always exploring new technologies"
+    }
+
+print("Life is about balance - code hard, live well! 🌟")
+```
+
+</div>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+  <h3>🌟 Ready to build something amazing together?</h3>
+  
+  [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-gadekar-b98551269/)
+  [![Email](https://img.shields.io/badge/📧%20Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshan.gadekar@example.com)
+  
+  <br><br>
+  
+  <h3>📊 Profile Analytics</h3>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=gadekardarshan&color=00D9FF&style=for-the-badge&label=Profile+Views)
+  ![GitHub Followers](https://img.shields.io/github/followers/gadekardarshan?label=Followers&style=for-the-badge&color=FF6B35)
+  ![GitHub Stars](https://img.shields.io/github/stars/gadekardarshan?label=Total%20Stars&style=for-the-badge&color=FFD700)
+  
+  <br><br>
+  
+  <h3>💡 Support My Journey</h3>
+  
+  <p>If you find my work valuable, consider:</p>
+  
+  ⭐ **Starring** my repositories<br>
+  🔄 **Sharing** my projects<br>
+  💬 **Contributing** to discussions<br>
+  🤝 **Collaborating** on projects
+  
 </div>
 
 ---
 
-## 🌐 Connect
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  
+  <h2>🎉 Thanks for stopping by!</h2>
+  <p><em>"In the world of algorithms and data, every problem is just a solution waiting to be discovered."</em></p>
+  <p><strong>Let's code the future together! 🚀✨</strong></p>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+  
+  ### 🌟 "Innovation distinguishes between a leader and a follower" - Steve Jobs
+  
+  <p><strong>Keep coding, keep creating, keep inspiring! 💻🌟</strong></p>
+  
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/darshan-gadekar-b98551269"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@domain.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/gadekardarshan"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gadekardarshan/gadekardarshan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-## 🛠️ How to make it perfect (notes)
-- To enable the **snake** animation and the dynamic contribution grid, enable the GitHub Action that generates the `output/github-contribution-grid-snake-dark.svg` in your repo (I can help add that action if you want).  
-- The old **GitHub streak** service used by some images is deprecated; it's safer to rely on `github-readme-stats` and custom SVGs as used above.  
-- Replace placeholder repo links and email with real URLs so badges and links point correctly.
-
----
-
-<p align="center">
-  <sub>✨ Built with care · Designed for recruiters & collaborators · Crafted to highlight AI/ML focus ✨</sub>
-</p>
+<div align="center">
+  <sub>✨ <strong>Crafted with ❤️ by Darshan Gadekar</strong> ✨</sub><br>
+  <sub>🤖 <strong>Powered by AI, driven by passion</strong> 🤖</sub>
+</div>
