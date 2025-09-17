@@ -5,17 +5,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💫+Welcome+to+Innovation+Hub+💫;🚀+Building+Next-Gen+AI+Systems;🎯+Transforming+Ideas+→+Reality;⭐+Let's+Create+Something+Amazing!" alt="Typing SVG" />
 
-<!-- Matrix Rain Effect -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<!-- Animated Wave -->
+<!-- Animated Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DARSHAN%20GADEKAR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 </div>
 
+---
+
 ## 🎭 **MEET THE INNOVATOR** 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ```python
 class DarshanGadekar:
@@ -47,23 +46,27 @@ print(developer.life_philosophy())
 
 <div align="center">
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
 ## 📊 **GITHUB ANALYTICS DASHBOARD**
 
-<img width="390" align="left" src="https://github-readme-stats.vercel.app/api?username=gadekardarshan&show_icons=true&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&border_radius=15&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gadekardarshan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadekardarshan&theme=tokyonight&hide_border=true&border_radius=15&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=86400" />
+</p>
 
-<img width="390" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadekardarshan&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&border_radius=15&title_color=58a6ff&text_color=c9d1d9&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadekardarshan&theme=tokyonight&hide_border=true&border_radius=15&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff" />
+</p>
 
-<br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gadekardarshan&theme=algolia&no-bg=true&no-frame=true&margin-w=15&column=7&cache_seconds=86400" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gadekardarshan&theme=dark&background=0d1117&border=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&hide_border=true&border_radius=15" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=gadekardarshan&theme=algolia&no-bg=true&no-frame=true&margin-w=15&column=7" />
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/gadekardarshan/gadekardarshan/output/snake.svg" alt="Snake animation" />
+<!-- Working Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 </div>
 
@@ -73,47 +76,59 @@ print(developer.life_philosophy())
 
 ## 💫 **TECHNOLOGY CONSTELLATION** 💫
 
-<!-- 3D Animated Tech Stack -->
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-
 ### 🤖 **AI/ML & Data Science**
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 
 ### 🚀 **Web Development**
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50">
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 💻 **Programming Languages**
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🛠️ **Tools & Platforms**
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50">
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
@@ -123,62 +138,63 @@ print(developer.life_philosophy())
 
 <div align="center">
 
-<!-- Project Cards with Hover Effects -->
+### 🏆 **Project Portfolio**
+
 <table>
 <tr>
 <td width="50%">
+<div align="center">
 
 ### 🎤 **Voice Chat Agent**
-<img align="right" width="80" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80">
 
-*🤖 Conversational AI trained on campus data*
-
-**🚀 Tech Stack:** Python • AI/ML • NLP  
-**✨ Features:** Voice interaction • Custom training  
+**🚀 Tech Stack:** Python • OpenAI • Whisper • TTS  
+**✨ Features:** Natural conversation • Voice synthesis  
 **📊 Status:** 🟢 Production Ready  
-⭐ **Impact:** Enhanced campus communication
+⭐ **Impact:** Enhanced user experience with voice interaction
 
+</div>
 </td>
 <td width="50%">
+<div align="center">
 
 ### 🏠 **Pune House Price Predictor**  
-<img align="right" width="80" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif">
+<img src="https://media.giphy.com/media/JtLrtaN4VPoKXJRKGB/giphy.gif" width="80">
 
-*📈 ML regression model with Flask API*
+**🚀 Tech Stack:** Python • Scikit-learn • Flask • Plotly  
+**✨ Features:** Real-time prediction • Interactive charts  
+**📊 Status:** 🟢 Live Demo Available  
+⭐ **Impact:** 90% accuracy in price prediction
 
-**🚀 Tech Stack:** Python • Flask • ML  
-**✨ Features:** Price prediction • Web interface  
-**📊 Status:** 🟢 Deployed  
-⭐ **Impact:** Accurate real estate insights
-
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%">
+<div align="center">
 
 ### 📱 **Charge Buddy**
-<img align="right" width="80" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80">
 
-*🆘 Emergency SOS + GPS Android app*
+**🚀 Tech Stack:** Android • Java • GPS API • Firebase  
+**✨ Features:** Emergency SOS • Real-time tracking  
+**📊 Status:** 🟢 Play Store Published  
+⭐ **Impact:** 500+ downloads, 4.5⭐ rating
 
-**🚀 Tech Stack:** Android • Java • GPS API  
-**✨ Features:** Emergency alerts • Location tracking  
-**📊 Status:** 🟢 Live on Play Store  
-⭐ **Impact:** Enhanced personal safety
-
+</div>
 </td>
 <td width="50%">
+<div align="center">
 
 ### 🛒 **E-Commerce Platform**
-<img align="right" width="80" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80">
 
-*🛍️ Full-stack React + Node.js solution*
+**🚀 Tech Stack:** React • Node.js • MongoDB • Stripe  
+**✨ Features:** Complete shopping solution  
+**📊 Status:** 🟢 Full-Stack Implementation  
+⭐ **Impact:** Seamless checkout experience
 
-**🚀 Tech Stack:** React • Node.js • MongoDB  
-**✨ Features:** Complete shopping experience  
-**📊 Status:** 🟢 Feature Complete  
-⭐ **Impact:** Seamless digital commerce
-
+</div>
 </td>
 </tr>
 </table>
@@ -189,43 +205,86 @@ print(developer.life_philosophy())
 
 <div align="center">
 
-## 📊 **DYNAMIC ACTIVITY VISUALIZATIONS** 
+## 📈 **DYNAMIC ACTIVITY VISUALIZATIONS** 
 
-<!-- Animated Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gadekardarshan&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" />
+<!-- Enhanced Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gadekardarshan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=🚀%20Contribution%20Activity%20Timeline&area_color=58a6ff" width="100%"/>
 
-## 🔥 **CONTRIBUTION HEATMAP** 
+## 🔥 **CODING STATS** 
 
-<!-- Enhanced Contribution Chart -->
-<img src="https://ghchart.rshah.org/00ffff/gadekardarshan" alt="Contribution Chart" />
+<!-- WakaTime Stats (if you have WakaTime setup) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gadekardarshan&theme=tokyonight&hide_border=true&border_radius=15&custom_title=Weekly%20Coding%20Activity&langs_count=8" />
 
-<!-- Animated Coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+<!-- Detailed Language Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gadekardarshan&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🚀 **CURRENT MISSION & VISION**
+## 🚀 **CURRENT MISSION & OBJECTIVES**
 
-<img align="right" alt="Innovation" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+<img align="right" alt="Innovation" width="300" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+### 🎯 **Mission Control Dashboard**
 
 ```yaml
-🎯 Mission Control:
-  Primary_Focus: "Voice-First AI Agents & Intelligent Automation"
-  Learning_Path: "Advanced ML Architectures & Cloud Computing"  
-  Exploration: "RAG Systems & Custom Model Fine-tuning"
-  Ultimate_Goal: "Full-Stack AI/ML Engineer Excellence"
+🔬 Research & Development:
+  Primary_Focus: "Advanced RAG Systems & LLM Fine-tuning"
+  Current_Learning: "MLOps Pipeline & Model Deployment"
+  Exploring: "Multimodal AI & Computer Vision"
+  Next_Target: "Production-Grade AI Systems"
 
-💡 Innovation Lab:
-  Status: "🚀 Ready for Launch"
-  Available_For: "Internships • Collaborations • Consulting"
-  Specialty: "End-to-End Intelligent System Architecture"
+🛠️ Technical Expertise:
+  Specialization: "End-to-End ML Pipeline Development"
+  Strengths: ["Problem Solving", "System Architecture", "Code Quality"]
+  Growth_Areas: ["Distributed Systems", "Cloud Architecture"]
+
+💼 Career Objectives:
+  Status: "🚀 Open for Opportunities"
+  Interests: ["AI Engineer", "ML Engineer", "Full-Stack Developer"]
+  Location: "Remote/Hybrid • Pune • Bangalore"
   
-🌟 Philosophy: "Code with Purpose, Build with Passion, Deploy with Pride"
+🌟 Philosophy: "Build solutions that make a difference"
 ```
 
 <br clear="right"/>
+
+---
+
+## 🏆 **ACHIEVEMENTS & MILESTONES**
+
+<div align="center">
+
+### 📜 **Achievement Gallery**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
+<h4>🎓 Academic Excellence</h4>
+<p>B.E. Information Technology<br/>JSPM JSCOE</p>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<h4>🚀 Project Delivery</h4>
+<p>15+ Projects Completed<br/>Full-Stack to AI/ML</p>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100">
+<h4>📱 App Published</h4>
+<p>Play Store Success<br/>500+ Downloads</p>
+</td>
+</tr>
+</table>
+
+### 📊 **Key Metrics**
+- **🔥 Coding Streak:** 150+ days
+- **⭐ GitHub Stars:** 50+ across repositories  
+- **👥 Collaborations:** 10+ successful projects
+- **🎯 Problem Solving:** 200+ coding challenges solved
+
+</div>
 
 ---
 
@@ -233,7 +292,8 @@ print(developer.life_philosophy())
 
 ## 🌐 **CONNECT & COLLABORATE**
 
-<!-- Animated Social Links -->
+### 🤝 **Let's Build Something Amazing Together!**
+
 <p align="center">
 <a href="https://darshans-portfolio.lovable.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B"/>
@@ -244,14 +304,25 @@ print(developer.life_philosophy())
 <a href="mailto:gadekardarshan90@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="tel:+918767587262" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://twitter.com/DarshanGadekar" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://github.com/gadekardarshan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
-### 💫 **"Innovation distinguishes between a leader and a follower"** 💫
+### 📞 **Quick Contact**
+- 📧 **Email:** gadekardarshan90@gmail.com
+- 📱 **WhatsApp:** +91 8767587262
+- 📍 **Location:** Pune, Maharashtra, India
+- 🌐 **Portfolio:** [darshans-portfolio.lovable.app](https://darshans-portfolio.lovable.app/)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+exploring+my+digital+universe!+🌟;Let's+innovate+and+create+magic+together!+⚡;Ready+to+build+tomorrow's+technology+today!+🚀" alt="Footer Animation" />
+### 💡 **Open for:**
+- 🤝 Collaboration on AI/ML projects
+- 💼 Full-time opportunities  
+- 🎯 Freelance consulting
+- 📚 Knowledge sharing & mentoring
 
 </div>
 
@@ -259,36 +330,60 @@ print(developer.life_philosophy())
 
 <div align="center">
 
-### 🎖️ **VISITOR ANALYTICS** 🎖️
+### 💫 **"The best way to predict the future is to create it"** 💫
 
-<img src="https://komarev.com/ghpvc/?username=gadekardarshan&label=Profile%20Explorers&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+exploring+my+digital+universe!+🌟;Let's+innovate+and+create+magic+together!+⚡;Ready+to+build+tomorrow's+technology+today!+🚀;Connect+with+me+for+exciting+collaborations!+💫" alt="Footer Animation" />
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-<h3>⭐ Star my repositories if they spark your interest! ⭐</h3>
+---
+
+<div align="center">
+
+### 🎖️ **PROFILE ANALYTICS** 🎖️
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gadekardarshan&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/gadekardarshan?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/gadekardarshan?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</p>
+
+### 🎯 **Quick Actions**
+<p align="center">
+  <a href="#-featured-projects-showcase">📂 View Projects</a> •
+  <a href="#-technology-constellation">💻 Tech Stack</a> •
+  <a href="#-connect--collaborate">🤝 Connect</a> •
+  <a href="https://darshans-portfolio.lovable.app/">🌐 Portfolio</a>
+</p>
+
+---
+
+<h3 align="center">⭐ If you find my work interesting, please consider starring my repositories! ⭐</h3>
 
 <!-- Final Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
 
-<!-- Royal ASCII Art -->
+<!-- Enhanced ASCII Art -->
 ```
-     ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗    ██╗   ██╗ ██████╗ ██╗   ██╗
-     ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝    ╚██╗ ██╔╝██╔═══██╗██║   ██║
-        ██║   ███████║███████║██╔██╗ ██║█████╔╝      ╚████╔╝ ██║   ██║██║   ██║
-        ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗       ╚██╔╝  ██║   ██║██║   ██║
-        ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗       ██║   ╚██████╔╝╚██████╔╝
-        ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ 
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗    ██╗   ██╗ ██████╗ ██╗   ██╗    ║
+║  ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝    ╚██╗ ██╔╝██╔═══██╗██║   ██║    ║
+║     ██║   ███████║███████║██╔██╗ ██║█████╔╝      ╚████╔╝ ██║   ██║██║   ██║    ║
+║     ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗       ╚██╔╝  ██║   ██║██║   ██║    ║
+║     ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗       ██║   ╚██████╔╝╚██████╔╝    ║
+║     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝     ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
+
 <div align="center">
   
-**💻 "Code like a king, debug like a detective, deploy like a wizard" 🧙‍♂️**
+**💻 "Code with passion, build with purpose, deploy with pride" 🚀**
 
-*Made with 💛 by Darshan Gadekar*
-<p>&copy; 2025 DARSHAN GADEKAR. All rights reserved.</p>
+---
+*Made with ❤️ by Darshan Gadekar • © 2025 All Rights Reserved*
+
+**🌟 Remember: Every expert was once a beginner. Keep learning, keep growing! 🌟**
 
 </div>
-
-
